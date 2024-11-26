@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\CPP\Bank\utilities.h(32,1): warning C4715: 'RandomCharacter': not all control paths return a value
+F:\CPP\Bank\BankClient.h(239,1): warning C4715: 'BankClient::save': not all control paths return a value
+F:\CPP\Bank\User.h(312,1): warning C4715: 'User::Save': not all control paths return a value
+  Bank.vcxproj -> F:\CPP\Bank\x64\Debug\Bank.exe
